@@ -33,12 +33,6 @@ Data transaksi penjualan (`penjualan_nusantaramart.csv`) dengan kolom:
 3. **Outlier:** Ada transaksi bernilai tinggi pada kategori Elektronik, Olahraga, dan Kesehatan. Ini diduga pembelian grosir atau pengadaan khusus.
 4. **Kepuasan pelanggan:** Rating sangat positif, mayoritas berada di kisaran 4,0 sampai 5,0.
 
-### Teknologi
-
-- **Python 3.x**
-- **Pandas**, untuk manipulasi dan analisis data
-- **Matplotlib & Seaborn**, untuk visualisasi dan dashboard
-
 ---
 
 ## 2. 🎵 Proyek Kelompok: What Makes a Song Go Viral?
@@ -68,7 +62,5 @@ Genre Latin, Pop, dan Hip-Hop layak diberi ruang uji lebih besar pada playlist r
 | 2 | Janeeta Samahat Nowa | 21 |
 | 3 | Revantyo Hafiz Prasetyawan | 31 |
 | 4 | Sepvaldi Firmandah Ramadhan | 32 |
-
-Folder proyek ini juga tersedia di repository kelompok: [KKA_Analisis_VisualisasiData](https://github.com/Poetr123/KKA_Analisis_VisualisasiData).
 
 ---
